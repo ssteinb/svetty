@@ -7,7 +7,7 @@ html, body {
 }
 
 body {
-	background: url(../images/bg.png); top center no-repeat #000;
+	background: url(../images/bg.png) top center no-repeat #000;
 	color: white;
 	font-family: 'Open Sans', sans-serif;
 }
