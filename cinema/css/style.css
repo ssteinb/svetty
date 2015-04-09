@@ -7,7 +7,7 @@ html, body {
 }
 
 body {
-	background: -webkit-radial-gradient(center, ellipse cover, #333 0%,#161616 100%);
+	background: url(http://solidstategaming.org/bg.jpg); top center no-repeat #000;
 	color: white;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -57,8 +57,8 @@ body {
 .welcome {
 	background-image: url(../images/theaterwelcome.png);
 	background-repeat: no-repeat;
-	width: 660px;
-	height: 141px;
+	width: 606px;
+	height: 149px;
 }
 
 .top-curtain {
